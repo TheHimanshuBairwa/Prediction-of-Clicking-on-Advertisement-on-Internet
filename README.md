@@ -14,6 +14,7 @@ The Algorithms which we are using are as follows:-
 -> Confusion matrix and Classification report are used for evaluation of models.
 
 Confusion Matrix of Random Forest
+<"\n">
 <img width="369" alt="Screenshot 2022-09-10 at 12 04 07 PM" src="https://user-images.githubusercontent.com/88283732/189472275-004a240f-1034-4c38-8a44-f4e7b4a39b5e.png">
 
 Confusiion Matrix of Decision Tree
